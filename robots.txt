@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://charles-bertucci.github.io/sitemap.xml
